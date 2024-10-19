@@ -14,8 +14,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Code]((https://github.com/ahmedEid6/profile-card-component))
-- [Live]((https://ahmedeid6.github.io/profile-card-component/))
+- [Code](https://github.com/ahmedEid6/profile-card-component)
+- [Live](https://ahmedeid6.github.io/profile-card-component/)
 
 ## My process
 
